@@ -1,3 +1,3 @@
 # ZaptominX-Theme Icons
 
-To install: move to `~/.icons/`
+To install: unpack and move to `~/.icons/`
